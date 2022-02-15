@@ -1,5 +1,5 @@
 public class mainclass {
 
     //i forgor
-    int x = 10;
+    int x = 50;
 }
