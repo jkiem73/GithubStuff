@@ -1,4 +1,4 @@
 public class mainclass {
 
-    int x = 11;
+    int x = 10;
 }
